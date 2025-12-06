@@ -1,4 +1,7 @@
-# Pure Crypter
+# for private crypter fud clean 
+join us on Telegram: https://t.me/+e9NpZMq26bVkZGM0
+Learning channel 
+# FUD Crypter
 An obfuscation tool for .Net + Native files.
 
 ## How to Use
